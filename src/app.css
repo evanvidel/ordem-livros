@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+
+.botao{
+    @apply bg-amber-500 px-5 py-2 text-2xl text-white;
+}

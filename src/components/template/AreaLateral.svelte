@@ -14,9 +14,9 @@ border border-zinc-800 p-5 gap-10 w-72"
 		<MenuItem texto="Séries" href="/" />
 	</Menu>
 	<Menu titulo="principais Autores">
-		<MenuItem texto="J.K. Rowling" href="/" />
-		<MenuItem texto="J.R.R. Tolkien" href="/" />
-		<MenuItem texto="George R.R. Martin" href="/autores/george-martin" />
+		<MenuItem texto="J.K. Rowling" href="/autores/j-k-rowling" />
+		<MenuItem texto="J.R.R. Tolkien" href="/autores/j-r-r-tolkien" />
+		<MenuItem texto="George R.R. Martin" href="/autores/george-r-r-martin" />
 	</Menu>
 	<Menu titulo="Outras Categorias">
 		<MenuItem texto="Últimas Notícias" href="/" />

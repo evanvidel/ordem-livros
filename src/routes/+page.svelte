@@ -1,5 +1,5 @@
 <script>
-	import ItemSerie from '../components/seie/ItemSerie.svelte';
+	import ItemSerie from '../components/serie/ItemSerie.svelte';
 
 	import series from '../constants/series';
 </script>

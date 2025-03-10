@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { marked } from 'marked';
-
 	export let autor: any = null;
 </script>
 
